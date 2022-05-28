@@ -1,4 +1,4 @@
-SYMBOLS = 'AĄBCĆDEĘFGHIJKLŁMNŃOÓPQRSŚTUVWXYZŹŻaąbcćdeęfghijklłmnńoópqrsśtuvwxyzźż0123456789,.?!@#$%^&*()_-+=\|{}[];:/'
+SYMBOLS = 'AĄBCĆDEĘFGHIJKLŁMNŃOÓPQRSŚTUVWXYZŹŻaąbcćdeęfghijklłmnńoópqrsśtuvwxyzźż0123456789,.?!@#$%^&*()_-+=\|{}[];:"/'
 MAX_KEY_LENGTH = len(SYMBOLS)
 
 
