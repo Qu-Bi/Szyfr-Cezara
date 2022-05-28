@@ -3,7 +3,7 @@ MAX_KEY_LENGTH = len(SYMBOLS)
 
 
 def powitanie():
-    print("Witam w programie Szyfru Cezara. Jest to prosty szyfr dzięki któremu możesz zaszyfrować, odszyfrować lub użyć metody siłowej. \nUżywa on 106 znakowego szyfrowania obejmującego znaki polskie, cyfry oraz znaki specjalne")
+    print("Witam w programie Szyfru Cezara. Jest to prosty szyfr dzięki któremu możesz zaszyfrować, odszyfrować lub użyć metody siłowej. \nUżywa on 107 znakowego szyfrowania obejmującego znaki polskie, cyfry oraz znaki specjalne")
 
 
 def pobierz_tryb():
